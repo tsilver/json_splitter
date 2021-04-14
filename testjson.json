@@ -1,0 +1,52 @@
+[
+{
+  "Name": "Test1",
+  "Mobile": 12345678,
+  "Boolean": true,
+  "Pets": ["Dog", "cat"],
+  "Address": {
+    "Permanent address": "USA",
+   "current Address": "AU"
+  }
+},
+{
+  "Name": "Test2",
+  "Mobile": 12345678,
+  "Boolean": true,
+  "Pets": ["Dog", "cat"],
+  "Address": {
+    "Permanent address": "USA",
+   "current Address": "AU"
+  }
+},
+{
+  "Name": "Test3",
+  "Mobile": 12345678,
+  "Boolean": true,
+  "Pets": ["Dog", "cat"],
+  "Address": {
+    "Permanent address": "USA",
+   "current Address": "AU"
+  }
+},
+{
+  "Name": "Test4",
+  "Mobile": 12345678,
+  "Boolean": true,
+  "Pets": ["Dog", "cat"],
+  "Address": {
+    "Permanent address": "USA",
+   "current Address": "AU"
+  }
+},
+{
+  "Name": "Test5",
+  "Mobile": 12345678,
+  "Boolean": true,
+  "Pets": ["Dog", "cat"],
+  "Address": {
+    "Permanent address": "USA",
+   "current Address": "AU"
+  }
+}
+]
